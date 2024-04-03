@@ -386,7 +386,7 @@ def anadir_video(sender,app_data):
     
     for i in tags:
         if i == '' or i == ' ' or i == None or len(i) == 0:
-            lista.append('-')
+            lista.append('')
         else:
             lista.append(i)
     
