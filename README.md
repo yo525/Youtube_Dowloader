@@ -9,7 +9,9 @@ Download the .exe file, run it in your windows computer and enjoy!!
 
 ## Screenshots
 
-
+![Alt text](https://github.com/yo525/Youtube_Dowloader/blob/main/screenshots/main_window.png "main_window.png")
+![Alt text](https://github.com/yo525/Youtube_Dowloader/blob/main/screenshots/new_song.png "new_song.png")
+![Alt text](https://github.com/yo525/Youtube_Dowloader/blob/main/screenshots/song_added.png "song_added.png")
 
 ## Create your own version
 You can download (or fork) the source code and create your own version.
