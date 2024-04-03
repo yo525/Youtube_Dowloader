@@ -1,7 +1,7 @@
 
 # SHADOW DOWNLOADER
 
-Shadow downloader is a Python program for download Youtube audios(music) from videos or even from each playlist video using Pytube library from python
+Shadow downloader is a Python program for download Youtube audios(music) from videos or even from each playlist video using Pytube library from python. You can also download music from Youtube music.
 
 ## Installation
 
